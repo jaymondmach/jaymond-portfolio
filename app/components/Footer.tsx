@@ -34,7 +34,7 @@ export default function Footer() {
         {/* Copyright + scroll-to-top */}
         <div className="flex flex-col sm:flex-row items-center gap-4 sm:gap-8 w-full sm:justify-between">
           <p className="text-[10px] font-medium tracking-[0.2em] uppercase text-white/20 text-center sm:text-left">
-            © 2025 Jaymond Mach · Kelowna, BC
+            © 2026 Jaymond Mach · Surrey, BC
           </p>
           <motion.button
             whileHover={{ scale: 1.1 }}
